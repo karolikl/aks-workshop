@@ -10,12 +10,15 @@ Azure Container Service (AKS) manages your hosted Kubernetes environment, making
 
 The team should work together to create a Kubernetes manifest file referencing the image container in your Azure Container Registry. The manifest must include a deployment and a load balancer. The application should be deployed to an Azure Container Service (AKS) cluster using the manifest file and you should be able to access the application.
 
+Each team member should be able to access the Kubernetes dashboard locally to view the Deployments and Pods running in the cluster. 
+
 ## References
 
 [Example Kubernetes manifest file](https://github.com/Azure-Samples/azure-voting-app-redis/blob/master/azure-vote-all-in-one-redis.yaml)  
 [Run applications in Azure Container Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-application)  
 [Kubernetes deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)  
 [Kubernetes services](https://kubernetes.io/docs/concepts/services-networking/service/)  
+[Kubernetes dashboard with Azure Container Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/kubernetes-dashboard)
 
 Other useful resources:
 
