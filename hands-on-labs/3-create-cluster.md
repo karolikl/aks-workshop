@@ -1,4 +1,4 @@
-# Challenge #3: Deploy image to an AKS cluster
+# Challenge #3: Deploy application to an AKS cluster
 
 ## Description
 
