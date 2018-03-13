@@ -15,5 +15,6 @@ _Hint_: Use image tags to separate the images from each other.
 
 [Deploy and use Azure Container Registry](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-acr)  
 [Azure Container Registry Documentation](https://docs.microsoft.com/en-us/azure/container-registry/)  
-[Azure CLI Reference](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli)
+[Azure CLI Reference](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli)  
+[Docker CLI Reference](https://docs.docker.com/engine/reference/commandline/cli/)
 
