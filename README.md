@@ -2,7 +2,7 @@
 
 This project contains a set of hands-on labs aimed at developers who want to learn how to 
 - Dockerize an existing application
-- Push the image to Azure Container Registry (or DockerHub)
+- Push the image to Azure Container Registry
 - Deploy the image to Azure Container Service (AKS)
 - Scale the application
 
